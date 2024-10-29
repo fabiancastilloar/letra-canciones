@@ -1,0 +1,18 @@
+
+
+.titulo{  
+  text-align: center;
+  color: orangered;
+  padding-top: 3ch;
+  padding-bottom: 3ch;
+  /*border: 1px solid rgb(197, 32, 32);*/
+ /* width: 100%;*/
+  font-weight: 500;
+ 
+}
+ 
+
+.btn{
+  background-color: rgb(223, 104, 61);
+ 
+}
